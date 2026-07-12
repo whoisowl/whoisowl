@@ -12,7 +12,7 @@
 - 🛠️ Working through a structured roadmap: Linux → Git → Docker → CI/CD → IaC → Kubernetes → Cloud/Monitoring
 - 📜 CompTIA Network+ certified
 - 🌍 Based in Tehran
-- 
+  
 #### Currently building
 
 - [server-health-cli](https://github.com/whoisowl/server-health-cli) — a Python CLI tool that monitors CPU, memory, and disk usage with configurable alert thresholds
