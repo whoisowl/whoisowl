@@ -1,97 +1,95 @@
-```{=html}
-<h1 align="center">
-```
-Arian Salarian
-```{=html}
-</h1>
-```
-```{=html}
-<p align="center">
-```
-Software Engineering Student • Aspiring DevOps Engineer
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-![Linux](https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux)
-![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python)
-![Docker](https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker)
-![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github)
+# Hi, I'm Arian 👋
 
-```{=html}
-</p>
-```
+**Software Engineering Student • Aspiring DevOps Engineer**
+
+I'm passionate about Linux, automation, cloud infrastructure, and
+building practical DevOps projects. I'm documenting my journey by
+creating real-world tools and continuously improving my engineering
+skills.
 
 ------------------------------------------------------------------------
 
-## About
-
-I'm a Software Engineering student focused on becoming a DevOps
-Engineer.
-
-I enjoy building practical projects that help me learn Linux,
-automation, containers, cloud infrastructure and CI/CD.
-
-------------------------------------------------------------------------
-
-## Tech Stack
-
-``` text
-Languages      Python • Bash
-
-Operating Sys  Linux • macOS
-
-DevOps         Docker • Git • GitHub
-
-Learning       Kubernetes • Terraform • GitHub Actions • AWS
-```
-
-------------------------------------------------------------------------
-
-## Featured Projects
+## 🚀 Featured Projects
 
 ### 🖥️ Server Health CLI
 
-A Python CLI for monitoring CPU, memory, disk usage and system health.
+A Python CLI for monitoring CPU, memory, disk usage, uptime, and running
+processes.
 
-➡️ https://github.com/whoisowl/server-health-cli
+> More DevOps projects coming soon: - Docker Lab - CI/CD Pipeline -
+> Terraform Lab - Kubernetes Lab
 
 ------------------------------------------------------------------------
 
-## Currently Learning
+## 🛠️ Tech Stack
+
+### Languages
+
+-   Python
+-   Bash
+
+### Operating Systems
 
 -   Linux
+-   macOS
+
+### DevOps & Tools
+
+-   Git
+-   GitHub
 -   Docker
+-   VS Code
+
+### Currently Learning
+
 -   Kubernetes
 -   Terraform
 -   GitHub Actions
 -   AWS
+-   Monitoring & Observability
 
 ------------------------------------------------------------------------
 
-## 2026 Goals
+## 📚 Current Roadmap
 
--   Build production-style DevOps projects
--   Learn Kubernetes deeply
--   Master Terraform
+-   ✅ Linux
+-   ✅ Git
+-   ✅ Python
+-   🔄 Docker
+-   🔄 CI/CD
+-   🔄 Terraform
+-   🔄 Kubernetes
+-   ⏳ AWS
+
+------------------------------------------------------------------------
+
+## 📈 GitHub Stats
+
+> Replace `whoisowl` if your username changes.
+
+![GitHub
+Stats](https://github-readme-stats.vercel.app/api?username=whoisowl&show_icons=true&hide_border=true)
+
+![Top
+Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=whoisowl&layout=compact&hide_border=true)
+
+------------------------------------------------------------------------
+
+## 🎯 2026 Goals
+
+-   Build production-ready DevOps projects
+-   Master Docker & Kubernetes
+-   Learn Terraform deeply
 -   Deploy applications to the cloud
--   Earn a DevOps internship
+-   Contribute to open source
+-   Land a DevOps internship
 
 ------------------------------------------------------------------------
 
-## Connect
+## 📫 Connect
 
-GitHub: https://github.com/whoisowl
+-   GitHub: https://github.com/whoisowl
 
 ------------------------------------------------------------------------
 
-```{=html}
-<p align="center">
-```
-`<sub>`{=html}Build. Learn. Repeat.`</sub>`{=html}
-```{=html}
-</p>
-```
+> **Build. Learn. Automate. Repeat.**
