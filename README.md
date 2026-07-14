@@ -1,95 +1,73 @@
-# Hi, I'm Arian 👋
+<div align="center">
 
-**Software Engineering Student • Aspiring DevOps Engineer**
+### 🦉
 
-I'm passionate about Linux, automation, cloud infrastructure, and
-building practical DevOps projects. I'm documenting my journey by
-creating real-world tools and continuously improving my engineering
-skills.
+</div>
 
-------------------------------------------------------------------------
+<div dir="ltr" lang="en">
 
-## 🚀 Featured Projects
+### Hi, I'm Arian 🦉
 
-### 🖥️ Server Health CLI
+- 🎓 Software student, currently focused on becoming a **DevOps Engineer**
+- 🛠️ Working through a structured roadmap: Linux → Git → Docker → CI/CD → IaC → Kubernetes → Cloud/Monitoring
+- 📜 CompTIA Network+ certified
+- 🌍 Based in Tehran
+  
+#### Currently building
 
-A Python CLI for monitoring CPU, memory, disk usage, uptime, and running
-processes.
+- [server-health-cli](https://github.com/whoisowl/server-health-cli) — a Python CLI tool that monitors CPU, memory, and disk usage with configurable alert thresholds
 
-> More DevOps projects coming soon: - Docker Lab - CI/CD Pipeline -
-> Terraform Lab - Kubernetes Lab
+#### Tech I'm learning
 
-------------------------------------------------------------------------
+`Python` `Bash` `Linux` `Git` `Docker` (coming up) `Kubernetes` (coming up)
 
-## 🛠️ Tech Stack
+#### Skills
 
-### Languages
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
--   Python
--   Bash
+#### Connect
 
-### Operating Systems
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.Linkedin.com/in/arian-salarian)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arian.slrn@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Arianeshon)
 
--   Linux
--   macOS
+</div>
 
-### DevOps & Tools
+---
 
--   Git
--   GitHub
--   Docker
--   VS Code
+<div dir="rtl" lang="fa">
 
-### Currently Learning
+### سلام، من آرین هستم 🦉
 
--   Kubernetes
--   Terraform
--   GitHub Actions
--   AWS
--   Monitoring & Observability
+- 🎓 دانشجوی نرم‌افزار، در حال حاضر تمرکزم روی تبدیل شدن به یک **مهندس DevOps** است
+- 🛠️ در حال گذراندن یک نقشه‌راه ساختاریافته: لینوکس → Git → داکر → CI/CD → IaC → کوبرنتیز → کلاود/مانیتورینگ
+- 📜 دارای مدرک CompTIA Network+
+- 🌍 ساکن تهران
+  
+#### پروژه‌ای که در حال ساختش هستم
 
-------------------------------------------------------------------------
+- [server-health-cli](https://github.com/whoisowl/server-health-cli) — یک ابزار خط‌فرمان پایتون برای مانیتورینگ CPU، حافظه و دیسک با حد آستانه‌های قابل تنظیم
 
-## 📚 Current Roadmap
+#### تکنولوژی‌هایی که در حال یادگیری‌شان هستم
 
--   ✅ Linux
--   ✅ Git
--   ✅ Python
--   🔄 Docker
--   🔄 CI/CD
--   🔄 Terraform
--   🔄 Kubernetes
--   ⏳ AWS
+`Python` `Bash` `Linux` `Git` `Docker` (به‌زودی) `Kubernetes` (به‌زودی)
 
-------------------------------------------------------------------------
+#### مهارت‌ها
 
-## 📈 GitHub Stats
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-> Replace `whoisowl` if your username changes.
+#### ارتباط با من
 
-![GitHub
-Stats](https://github-readme-stats.vercel.app/api?username=whoisowl&show_icons=true&hide_border=true)
+خوشحال می‌شوم پروژه‌هایم را ببینید و مسیر یادگیری من به سمت نقش‌های DevOps/SRE را دنبال کنید.
 
-![Top
-Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=whoisowl&layout=compact&hide_border=true)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.Linkedin.com/in/arian-salarian)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arian.slrn@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Arianeshon)
 
-------------------------------------------------------------------------
-
-## 🎯 2026 Goals
-
--   Build production-ready DevOps projects
--   Master Docker & Kubernetes
--   Learn Terraform deeply
--   Deploy applications to the cloud
--   Contribute to open source
--   Land a DevOps internship
-
-------------------------------------------------------------------------
-
-## 📫 Connect
-
--   GitHub: https://github.com/whoisowl
-
-------------------------------------------------------------------------
-
-> **Build. Learn. Automate. Repeat.**
+</div>
