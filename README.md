@@ -1,73 +1,173 @@
-<div align="center">
+```{=html}
+<h1 align="center">
+```
+🖥️ Server Health CLI
+```{=html}
+</h1>
+```
+```{=html}
+<p align="center">
+```
+A lightweight Python CLI for monitoring Linux & macOS system health.
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20macOS-blue?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
-### 🦉
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+🇺🇸 English • 🇮🇷 فارسی
+```{=html}
+</p>
+```
 
-</div>
+------------------------------------------------------------------------
 
-<div dir="ltr" lang="en">
+# 📸 Preview
 
-### Hi, I'm Arian 🦉
+> Add terminal screenshots in `assets/demo.png` and update this section:
 
-- 🎓 Software student, currently focused on becoming a **DevOps Engineer**
-- 🛠️ Working through a structured roadmap: Linux → Git → Docker → CI/CD → IaC → Kubernetes → Cloud/Monitoring
-- 📜 CompTIA Network+ certified
-- 🌍 Based in Tehran
-  
-#### Currently building
+``` markdown
+<p align="center">
+<img src="assets/demo.png" width="850">
+</p>
+```
 
-- [server-health-cli](https://github.com/whoisowl/server-health-cli) — a Python CLI tool that monitors CPU, memory, and disk usage with configurable alert thresholds
+------------------------------------------------------------------------
 
-#### Tech I'm learning
+# ✨ Features
 
-`Python` `Bash` `Linux` `Git` `Docker` (coming up) `Kubernetes` (coming up)
+-   ⚡ Real-time CPU monitoring
+-   🧠 Memory monitoring
+-   💾 Disk monitoring
+-   🔥 Top CPU & memory consuming processes
+-   ⏱️ System uptime
+-   👤 Hostname & current user
+-   📄 JSON output
+-   🔄 Watch mode
+-   🚨 Configurable alert thresholds
+-   🎨 Colored terminal output
+-   ✅ Proper exit codes
 
-#### Skills
+------------------------------------------------------------------------
 
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+# 📚 Table of Contents
 
-#### Connect
+-   🇺🇸 English
+-   🇮🇷 فارسی
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.Linkedin.com/in/arian-salarian)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arian.slrn@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Arianeshon)
+------------------------------------------------------------------------
 
-</div>
+# 🇺🇸 English
 
----
+## Overview
 
-<div dir="rtl" lang="fa">
+Server Health CLI is a lightweight Python-based command-line tool for
+monitoring system health.
 
-### سلام، من آرین هستم 🦉
+## Installation
 
-- 🎓 دانشجوی نرم‌افزار، در حال حاضر تمرکزم روی تبدیل شدن به یک **مهندس DevOps** است
-- 🛠️ در حال گذراندن یک نقشه‌راه ساختاریافته: لینوکس → Git → داکر → CI/CD → IaC → کوبرنتیز → کلاود/مانیتورینگ
-- 📜 دارای مدرک CompTIA Network+
-- 🌍 ساکن تهران
-  
-#### پروژه‌ای که در حال ساختش هستم
+``` bash
+git clone https://github.com/whoisowl/server-health-cli.git
+cd server-health-cli
+pip install -r requirements.txt
+```
 
-- [server-health-cli](https://github.com/whoisowl/server-health-cli) — یک ابزار خط‌فرمان پایتون برای مانیتورینگ CPU، حافظه و دیسک با حد آستانه‌های قابل تنظیم
+## Usage
 
-#### تکنولوژی‌هایی که در حال یادگیری‌شان هستم
+``` bash
+python health_check.py
+python health_check.py --json
+python health_check.py --watch 5
+python health_check.py --cpu-threshold 85 --memory-threshold 80 --disk-threshold 90
+```
 
-`Python` `Bash` `Linux` `Git` `Docker` (به‌زودی) `Kubernetes` (به‌زودی)
+## Example Output
 
-#### مهارت‌ها
+``` text
+Hostname : MacBook-Pro
+CPU      : 15%
+Memory   : 42%
+Disk     : 61%
+Status   : Healthy
+```
 
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+## Roadmap
 
-#### ارتباط با من
+-   [x] CPU Monitoring
+-   [x] Memory Monitoring
+-   [x] Disk Monitoring
+-   [x] JSON Output
+-   [x] Watch Mode
+-   [ ] YAML Configuration
+-   [ ] Docker Support
+-   [ ] GitHub Actions Tests
+-   [ ] Prometheus Exporter
 
-خوشحال می‌شوم پروژه‌هایم را ببینید و مسیر یادگیری من به سمت نقش‌های DevOps/SRE را دنبال کنید.
+------------------------------------------------------------------------
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.Linkedin.com/in/arian-salarian)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arian.slrn@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Arianeshon)
+# 🇮🇷 فارسی
 
-</div>
+## معرفی
+
+Server Health CLI یک ابزار خط فرمان سبک است که با Python توسعه داده شده
+و برای بررسی وضعیت سیستم استفاده می‌شود.
+
+## نصب
+
+``` bash
+git clone https://github.com/whoisowl/server-health-cli.git
+cd server-health-cli
+pip install -r requirements.txt
+```
+
+## اجرا
+
+``` bash
+python health_check.py
+python health_check.py --json
+python health_check.py --watch 5
+python health_check.py --cpu-threshold 85 --memory-threshold 80 --disk-threshold 90
+```
+
+## برنامه‌های آینده
+
+-   [x] مانیتورینگ CPU
+-   [x] مانیتورینگ حافظه
+-   [x] مانیتورینگ دیسک
+-   [ ] پشتیبانی از Docker
+-   [ ] تست خودکار
+-   [ ] تنظیمات YAML
+
+------------------------------------------------------------------------
+
+# 🤝 Contributing
+
+Pull Requests are welcome!
+
+------------------------------------------------------------------------
+
+# 📜 License
+
+MIT License
+
+------------------------------------------------------------------------
+
+# 👨‍💻 Author
+
+**Arian Salarian**
+
+-   🎓 Software Engineering Student
+-   ☁️ Aspiring DevOps Engineer
+-   🌐 https://github.com/whoisowl
+
+⭐ If you like this project, please give it a star!
