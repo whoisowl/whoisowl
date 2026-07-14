@@ -1,73 +1,97 @@
-<div align="center">
+```{=html}
+<h1 align="center">
+```
+Arian Salarian
+```{=html}
+</h1>
+```
+```{=html}
+<p align="center">
+```
+Software Engineering Student • Aspiring DevOps Engineer
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+![Linux](https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux)
+![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python)
+![Docker](https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker)
+![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github)
 
-### 🦉
+```{=html}
+</p>
+```
 
-</div>
+------------------------------------------------------------------------
 
-<div dir="ltr" lang="en">
+## About
 
-### Hi, I'm Arian 🦉
+I'm a Software Engineering student focused on becoming a DevOps
+Engineer.
 
-- 🎓 Software student, currently focused on becoming a **DevOps Engineer**
-- 🛠️ Working through a structured roadmap: Linux → Git → Docker → CI/CD → IaC → Kubernetes → Cloud/Monitoring
-- 📜 CompTIA Network+ certified
-- 🌍 Based in Tehran
-  
-#### Currently building
+I enjoy building practical projects that help me learn Linux,
+automation, containers, cloud infrastructure and CI/CD.
 
-- [server-health-cli](https://github.com/whoisowl/server-health-cli) — a Python CLI tool that monitors CPU, memory, and disk usage with configurable alert thresholds
+------------------------------------------------------------------------
 
-#### Tech I'm learning
+## Tech Stack
 
-`Python` `Bash` `Linux` `Git` `Docker` (coming up) `Kubernetes` (coming up)
+``` text
+Languages      Python • Bash
 
-#### Skills
+Operating Sys  Linux • macOS
 
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+DevOps         Docker • Git • GitHub
 
-#### Connect
+Learning       Kubernetes • Terraform • GitHub Actions • AWS
+```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.Linkedin.com/in/arian-salarian)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arian.slrn@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Arianeshon)
+------------------------------------------------------------------------
 
-</div>
+## Featured Projects
 
----
+### 🖥️ Server Health CLI
 
-<div dir="rtl" lang="fa">
+A Python CLI for monitoring CPU, memory, disk usage and system health.
 
-### سلام، من آرین هستم 🦉
+➡️ https://github.com/whoisowl/server-health-cli
 
-- 🎓 دانشجوی نرم‌افزار، در حال حاضر تمرکزم روی تبدیل شدن به یک **مهندس DevOps** است
-- 🛠️ در حال گذراندن یک نقشه‌راه ساختاریافته: لینوکس → Git → داکر → CI/CD → IaC → کوبرنتیز → کلاود/مانیتورینگ
-- 📜 دارای مدرک CompTIA Network+
-- 🌍 ساکن تهران
-  
-#### پروژه‌ای که در حال ساختش هستم
+------------------------------------------------------------------------
 
-- [server-health-cli](https://github.com/whoisowl/server-health-cli) — یک ابزار خط‌فرمان پایتون برای مانیتورینگ CPU، حافظه و دیسک با حد آستانه‌های قابل تنظیم
+## Currently Learning
 
-#### تکنولوژی‌هایی که در حال یادگیری‌شان هستم
+-   Linux
+-   Docker
+-   Kubernetes
+-   Terraform
+-   GitHub Actions
+-   AWS
 
-`Python` `Bash` `Linux` `Git` `Docker` (به‌زودی) `Kubernetes` (به‌زودی)
+------------------------------------------------------------------------
 
-#### مهارت‌ها
+## 2026 Goals
 
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+-   Build production-style DevOps projects
+-   Learn Kubernetes deeply
+-   Master Terraform
+-   Deploy applications to the cloud
+-   Earn a DevOps internship
 
-#### ارتباط با من
+------------------------------------------------------------------------
 
-خوشحال می‌شوم پروژه‌هایم را ببینید و مسیر یادگیری من به سمت نقش‌های DevOps/SRE را دنبال کنید.
+## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.Linkedin.com/in/arian-salarian)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arian.slrn@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Arianeshon)
+GitHub: https://github.com/whoisowl
 
-</div>
+------------------------------------------------------------------------
+
+```{=html}
+<p align="center">
+```
+`<sub>`{=html}Build. Learn. Repeat.`</sub>`{=html}
+```{=html}
+</p>
+```
