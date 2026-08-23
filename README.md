@@ -10,7 +10,7 @@
 
 - 🎓 Software student, currently focused on becoming a **DevOps Engineer**
 - 🛠️ Working through a structured roadmap: Linux → Git → Docker → CI/CD → IaC → Kubernetes → Cloud/Monitoring
-- 📜 CompTIA Network+ certified
+- 🏆 Git & GitHub Certified
 - 🌍 Based in Tehran
 
 #### Currently building
@@ -57,7 +57,7 @@
 
 - 🎓 دانشجوی نرم‌افزار، در حال حاضر تمرکزم روی تبدیل شدن به یک **مهندس DevOps** است
 - 🛠️ در حال گذراندن یک نقشه‌راه ساختاریافته: لینوکس → Git → داکر → CI/CD → IaC → کوبرنتیز → کلاود/مانیتورینگ
-- 📜 دارای مدرک CompTIA Network+
+- 🏆 مدرک گیت و گیت هاب
 - 🌍 ساکن تهران
 
 #### پروژه‌ای که در حال ساختش هستم
